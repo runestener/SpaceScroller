@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: b8b3f1106ad783c4191dc11008c70c13
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosions_new_0
+    21300002: explosions_new_1
+    21300004: explosions_new_2
+    21300006: explosions_new_3
+    21300008: explosions_new_4
+    21300010: explosions_new_5
+    21300012: explosions_new_6
+    21300014: explosions_new_7
+    21300016: explosions_new_8
+    21300018: explosions_new_9
+    21300020: explosions_new_10
+    21300022: explosions_new_11
+    21300024: explosions_new_12
+    21300026: explosions_new_13
+    21300028: explosions_new_14
+    21300030: explosions_new_15
+    21300032: explosions_new_16
+    21300034: explosions_new_17
+    21300036: explosions_0
+    21300038: explosions_2
+    21300040: explosions_3
+    21300042: explosions_9
+    21300044: explosions_10
+    21300046: explosions_6
+    21300048: explosions_7
+    21300050: explosions_8
+    21300052: explosions_11
+    21300054: explosions_12
+    21300056: explosions_13
+    21300058: explosions_14
+    21300060: explosions_15
+    21300062: explosions_16
+    21300064: explosions_17
+    21300066: explosions_5
+    21300068: explosions_4
+    21300070: explosions_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosions_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 13
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

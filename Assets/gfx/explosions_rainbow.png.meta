@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 878cd9101cba005448ba308392a91583
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosions_rainbow_0
+    21300002: explosions_rainbow_2
+    21300004: explosions_rainbow_3
+    21300006: explosions_rainbow_4
+    21300008: explosions_rainbow_5
+    21300010: explosions_rainbow_7
+    21300012: explosions_rainbow_8
+    21300014: explosions_rainbow_13
+    21300016: explosions_rainbow_1
+    21300018: explosions_rainbow_6
+    21300020: explosions_rainbow_9
+    21300022: explosions_rainbow_10
+    21300024: explosions_rainbow_11
+    21300026: explosions_rainbow_12
+    21300028: explosions_rainbow_14
+    21300030: explosions_rainbow_15
+    21300032: explosions_rainbow_16
+    21300034: explosions_rainbow_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosions_rainbow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 13
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosions_rainbow_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
